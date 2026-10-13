@@ -2,7 +2,7 @@
 
 A mobile weather application built using **React Native, Expo, and JavaScript (JSX)**. The app provides a simple and intuitive interface for viewing weather information and checking conditions for different locations.
 
-## 📱 Screenshots
+## Screenshots
 
 <p align="center">
   <img src="screenshots/home-screen.png" alt="Weather App Home Screen" width="220"/>
@@ -16,16 +16,16 @@ A mobile weather application built using **React Native, Expo, and JavaScript (J
   <i>Home Screen · Weather Details · User Form</i>
 </p>
 
-## ✨ Features
+## Features
 
-- 🌍 Search for weather information by location, if supported.
-- 🌡️ Display current temperature and weather conditions.
-- ☁️ Show weather descriptions and corresponding icons.
-- 💧 Display additional details such as humidity and wind speed, if implemented.
-- 📱 Mobile-friendly interface built with React Native.
-- ⚡ Developed and tested using Expo.
+-  Search for weather information by location, if supported.
+-  Display current temperature and weather conditions.
+-  Show weather descriptions and corresponding icons.
+-  Display additional details such as humidity and wind speed, if implemented.
+-  Mobile-friendly interface built with React Native.
+-  Developed and tested using Expo.
 
-## 🛠️ Built With
+##  Built With
 
 - **React Native** — Mobile application development.
 - **Expo** — Development and testing environment.
@@ -33,7 +33,7 @@ A mobile weather application built using **React Native, Expo, and JavaScript (J
 - **React Hooks** — State management and component logic, if used.
 - **Weather API** — Fetching weather data, if integrated.
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 Weather-App/
@@ -54,7 +54,7 @@ Weather-App/
 └── README.md
 ```
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -95,7 +95,7 @@ npx expo start
 - Scan the QR code using Expo Go, where your Expo SDK version is supported.
 - Alternatively, press the appropriate key in the terminal to launch an available emulator.
 
-## 🌤️ Weather API Configuration
+##  Weather API Configuration
 
 If the application uses an external weather API:
 
@@ -112,14 +112,14 @@ If the application uses an external weather API:
 - [ ] Introduce light and dark themes.
 - [ ] Enhance the user interface and animations.
 
-## 👩‍💻 Author
+##  Author
 
 **Syeda Eraj Zehra**
 
-- GitHub: https://github.com/S-Eraj-Zehra/
+- GitHub: [S-Eraj-Zehra](https://github.com/S-Eraj-Zehra/)
 - LinkedIn: https://www.linkedin.com/in/e-zehra/
 
-## 📄 License
+##  License
 
 This project is intended for learning and personal development. If you plan to distribute it publicly, consider adding an appropriate open-source license.
 
